@@ -80,17 +80,7 @@
 - ⚙️ **Automation** — Workflow automation, data pipelines
 - 📈 **Data Analysis** — EDA, visualization, storytelling with data
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemrajbudhathoki10&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemrajbudhathoki10&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemrajbudhathoki10&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
